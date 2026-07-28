@@ -12,7 +12,7 @@ var directoryData = {
         items: [
           {name: "豆瓣电影Top250原盘", size: "13.83TB", spec: "蓝光ISO"},
           {name: "IMDb Top250", size: "2.09TB", spec: "蓝光"},
-          {name: "全球电影史销售TOP100", size: "", spec: "合集"},
+          {name: "全球电影史销售TOP100", size: "4.8TB", spec: "合集"},
           {name: "奥斯卡最佳影片合集（96届）", size: "16.15TB", spec: "蓝光ISO"},
           {name: "巴拿马电影节金棕榈奖（70部）", size: "3.34TB", spec: "蓝光ISO"},
           {name: "韩国影史百佳电影合集", size: "", spec: ""},
